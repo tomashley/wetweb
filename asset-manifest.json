@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wetweb/static/css/main.ab03e238.css",
+    "main.js": "/wetweb/static/js/main.28454420.js",
+    "static/js/787.5b7739ea.chunk.js": "/wetweb/static/js/787.5b7739ea.chunk.js",
+    "static/media/ww.png": "/wetweb/static/media/ww.56115acc6d12e83d6ea1.png",
+    "index.html": "/wetweb/index.html",
+    "main.ab03e238.css.map": "/wetweb/static/css/main.ab03e238.css.map",
+    "main.28454420.js.map": "/wetweb/static/js/main.28454420.js.map",
+    "787.5b7739ea.chunk.js.map": "/wetweb/static/js/787.5b7739ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab03e238.css",
+    "static/js/main.28454420.js"
+  ]
+}
